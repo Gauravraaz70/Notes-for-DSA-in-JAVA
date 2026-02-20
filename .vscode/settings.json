@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "basics",
-        "BasicDsa",
-        "methods"
-    ],
-    "java.debug.settings.onBuildFailureProceed": true
-}
